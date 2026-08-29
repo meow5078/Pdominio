@@ -34,10 +34,10 @@ Esta herramienta de navaja suiza en el Carding dispone de una variedad de opcion
  - pkg install python3 --upgrade
 
 // Clonar este repositorio:
- - git clone https://github.com/kirito02-git/Kirito
+ - git clone https://github.com/meow5078/Pdominio
 
 // Ingresar al proyecto
- - cd Kirito/
+ - cd Pdomin/
 
 // Instalar las dependencias necesarias:
  - pip install -r requirements.txt
