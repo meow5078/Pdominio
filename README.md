@@ -1,0 +1,2 @@
+# Pdominio
+script termux
